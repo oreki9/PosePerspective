@@ -1,0 +1,3 @@
+bpy.context.scene.cursor_location
+bpy.context.active_pose_bone.tail
+(bpy.context.screen.areas[4].spaces[0].region_3d).perspective_matrix
